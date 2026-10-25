@@ -2,7 +2,11 @@
 
 > *"Plan Smarter. Celebrate Better."*
 
-[![Build & Test](https://img.shields.io/badge/tests-30%20passed-success)](https://github.com/)
+🚀 **Live Deployment:** [https://narendradotbabu.github.io/planora-ai/](https://narendradotbabu.github.io/planora-ai/)  
+📦 **GitHub Repository:** [https://github.com/narendradotbabu/planora-ai](https://github.com/narendradotbabu/planora-ai)
+
+[![Build & Test](https://img.shields.io/badge/tests-30%20passed-success)](https://github.com/narendradotbabu/planora-ai/actions)
+[![GitHub Pages](https://img.shields.io/badge/deployment-live%20on%20GitHub%20Pages-brightgreen)](https://narendradotbabu.github.io/planora-ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](./LICENSE)
 [![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Tailwind-blue)](https://vitejs.dev/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20TypeScript-green)](https://nodejs.org/)
