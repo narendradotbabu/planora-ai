@@ -1,6 +1,6 @@
 import type { EventContext, PlanResult, Idea } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = (import.meta.env.VITE_API_BASE as string) || '/api';
 
 async function apiCall<T>(url: string, body: unknown): Promise<T | null> {
   try {
